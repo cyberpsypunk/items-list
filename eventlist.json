@@ -52,7 +52,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 500,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -148,16 +148,11 @@
 	{
 		"abr": "ambrosiasprout",
 		"price": 850,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "herdmigration",
-		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 1800,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -168,7 +163,7 @@
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "shipchunkdrop",
@@ -182,7 +177,7 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -192,7 +187,7 @@
 	},
 	{
 		"abr": "party",
-		"price": 400,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -221,38 +216,43 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "siegeraid",
+		"abr": "dropraid",
 		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 3500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "predators",
-		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 500,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -268,16 +268,21 @@
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "visitcolony",
-		"price": 300,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "berescued",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "randominspire",
-		"price": 450,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -291,39 +296,14 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reversetraderequest",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "woundedcombatants",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "pirateextortion",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "roadworks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "diplomaticmarriage",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "mysticalshaman",
-		"price": 1000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "annualexpo",
 		"price": 1000,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "peacetalks",
@@ -333,18 +313,13 @@
 	{
 		"abr": "piratecamp",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "bumpercrops",
 		"price": 1000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "baseattack",
-		"price": 1000,
-		"karmatype": "Bad"
 	}
 	],
-	"total": 69
+	"total": 64
 }
